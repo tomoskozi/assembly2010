@@ -1,0 +1,7 @@
+# Assembly programozás gyakorlatok kódjai #
+
+A forráskódok szemléltető jellegűek és néhány esetben felmerülnek tervezési- és kódolásihiányosságok.
+
+Minden program Assembly-ben vagy C++-ban íródott és a Szegedi Tudományegyetem informatikusok számára tartott Assembly programozás kurzus 2010-es, általam tartott gyakorlataihoz kapcsolódnak. A teljes óravázlat a honlapomról érhető el: http://www.stud.u-szeged.hu/Tomoskozi.Mate.Ferenc/.
+
+Készítette: Tömösközi Máté F.
